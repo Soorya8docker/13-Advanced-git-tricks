@@ -20,4 +20,3 @@ git commit --amend -m "nice"
 
 #This is my fifth commit
 echo "I will change this file1 commit, with first commit and with same commit I will change file2 also."
-
