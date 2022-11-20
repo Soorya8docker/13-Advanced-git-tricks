@@ -1,0 +1,11 @@
+1. Ammending commits
+2. Rewording commits messages
+3. Deleting commits
+4. Reordering commits
+5. Squashing commits
+6. Splitting commits
+
+1. Ammending commits
+
+git log --oneline
+git status
